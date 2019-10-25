@@ -336,11 +336,10 @@ a:hover, a:active, a:focus {
   }
 }
 
-
-/*---------------------------------------
+ /*---------------------------------------
   HOME             
 -----------------------------------------*/
-
+/* 
 #home {
   display: -webkit-box;
   display: -webkit-flex;
@@ -406,7 +405,7 @@ a:hover, a:active, a:focus {
   text-transform: uppercase;
   margin: 0;
 }
-
+ */
 
 /*---------------------------------------
   PROJECT              
